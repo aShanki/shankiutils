@@ -1,4 +1,4 @@
-## 2. Disable Titlebar and Taskbar Previews when in Fullscreen Mode. (Windows Only)
+## 1. Disable Titlebar and Taskbar Previews when in Fullscreen Mode. (Windows Only)
 This will show you, how to disable taskbar and titlebar previews when playing MCBE in fullscreen mode.
 ![image](https://user-images.githubusercontent.com/41850963/140021475-d045e817-165f-432c-9732-d6a2b49eb7d4.png)
 
